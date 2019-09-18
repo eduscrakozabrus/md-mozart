@@ -1,0 +1,10 @@
+{
+  "name": "md-mozart",
+  "version": "7.0.1",
+  "main": "index.js",
+  "author": "M.D. Mozart",
+  "license": "Private",
+  "dependencies": {
+    "markdown": "0.5.0"
+  }
+}
